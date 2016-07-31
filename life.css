@@ -1,0 +1,10 @@
+#universe span {
+	display: inline-block;
+	height: 15px;
+	width: 15px;
+}
+
+br {
+	display: block;
+	margin: -3px 0;
+}
